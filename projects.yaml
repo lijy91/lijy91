@@ -1,16 +1,19 @@
-name: packages for leanflutter
-description: ''
+name: Projects for lijy91
 categories:
+  - id: apps
+    name: Apps
+    description: Personal applications independently developed by me.
   - id: packages
     name: Packages
+    description: Flutter/Dart packages that provide cross-platform capabilities, system integrations, and utility modules for developers.
   - id: tools
     name: Tools
-tags:
-  - id: window
-    name: Window
-  - id: hotkey
-    name: HotKey
+    description: Tools that support development workflows, automation, and productivity enhancement.
 entities:
+  # APPS
+  - name: Biyi
+    github_id: lijy91/biyi
+    category: apps
   # PACKAGES
   - pub_id: auto_updater
     github_id: leanflutter/auto_updater
@@ -45,9 +48,6 @@ entities:
   - pub_id: clipboard_watcher
     github_id: leanflutter/clipboard_watcher
     category: packages
-  - pub_id: contextual_menu
-    github_id: leanflutter/contextual_menu
-    category: packages
   - pub_id: keypress_simulator
     github_id: leanflutter/keypress_simulator
     category: packages
@@ -55,9 +55,6 @@ entities:
     github_id: leanflutter/shortcut_menu_extender
     category: packages
   # TOOLS
-  - name: flutter_distributor
-    github_id: leanflutter/flutter_distributor
-    category: tools
-  - name: makeanyicon
-    github_id: leanflutter/makeanyicon
+  - name: fastforge
+    github_id: fastforgedev/fastforge
     category: tools
