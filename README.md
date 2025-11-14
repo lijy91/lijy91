@@ -1,10 +1,10 @@
-## Hi there, I'm LiJianying 👋
+# Hi there, I'm LiJianying 👋
 
 I'm a passionate Flutter developer and open-source enthusiast. Currently, I'm actively contributing to the Flutter community through my organization, [LeanFlutter](https://github.com/leanflutter), where we develop a variety of Flutter plugins.
 
 English | [简体中文](/README-ZH.md)
 
-### 🥞 My Tech Stack
+## 🥞 My Tech Stack
 
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -19,10 +19,10 @@ English | [简体中文](/README-ZH.md)
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🏗️ My Open Source Projects
+## 🏗️ My Open Source Projects
 
 <!-- AUTO-GENERATED:START -->
-#### Apps
+### Apps
 
 Personal applications independently developed by me.
 
@@ -30,7 +30,7 @@ Personal applications independently developed by me.
 | ----------- | -------- | -------- | --------- | ---------------- |
 | [Biyi](https://github.com/lijy91/biyi) | [![Stars](https://img.shields.io/github/stars/lijy91/biyi)](https://github.com/lijy91/biyi/stargazers) | [![Forks](https://img.shields.io/github/forks/lijy91/biyi)](https://github.com/lijy91/biyi/network/members) | [![Issues](https://img.shields.io/github/issues/lijy91/biyi)](https://github.com/lijy91/biyi/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/lijy91/biyi)](https://github.com/lijy91/biyi/pulls) |
 
-#### Packages
+### Packages
 
 Flutter/Dart packages that provide cross-platform capabilities, system integrations, and utility modules for developers.
 
@@ -50,7 +50,7 @@ Flutter/Dart packages that provide cross-platform capabilities, system integrati
 | [tray_manager](https://github.com/leanflutter/tray_manager) | [![Stars](https://img.shields.io/github/stars/leanflutter/tray_manager)](https://github.com/leanflutter/tray_manager/stargazers) | [![Forks](https://img.shields.io/github/forks/leanflutter/tray_manager)](https://github.com/leanflutter/tray_manager/network/members) | [![Issues](https://img.shields.io/github/issues/leanflutter/tray_manager)](https://github.com/leanflutter/tray_manager/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/leanflutter/tray_manager)](https://github.com/leanflutter/tray_manager/pulls) |
 | [window_manager](https://github.com/leanflutter/window_manager) | [![Stars](https://img.shields.io/github/stars/leanflutter/window_manager)](https://github.com/leanflutter/window_manager/stargazers) | [![Forks](https://img.shields.io/github/forks/leanflutter/window_manager)](https://github.com/leanflutter/window_manager/network/members) | [![Issues](https://img.shields.io/github/issues/leanflutter/window_manager)](https://github.com/leanflutter/window_manager/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/leanflutter/window_manager)](https://github.com/leanflutter/window_manager/pulls) |
 
-#### Tools
+### Tools
 
 Tools that support development workflows, automation, and productivity enhancement.
 
@@ -60,7 +60,7 @@ Tools that support development workflows, automation, and productivity enhanceme
 
 <!-- AUTO-GENERATED:END -->
 
-### 📙 My Latest Blog Articles
+## 📙 My Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -69,18 +69,18 @@ Tools that support development workflows, automation, and productivity enhanceme
 
 ▶ [...explore more Flutter resources](https://github.com/leanflutter)
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 [![](https://github-readme-stats.vercel.app/api?username=lijy91&show_icons=true&line_height=27&count_private=true&title_color=1F2329&text_color=434D58&icon_color=2bbc8a&bg_color=F6F8FA)](https://github.com/lijy91/lijy91)
 
-### 👾 Socials
+## 👾 Socials
 
 [![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/lijy91/)
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/zPa6EZ2jqb)
 [![](https://img.shields.io/badge/QQ_Group-EB1923?style=for-the-badge&logo=tencent-qq&logoColor=white)](https://jq.qq.com/?_wv=1027&k=e3kwRnnw)
 [![](https://komarev.com/ghpvc/?username=lijy91&style=for-the-badge&color=red&abbreviated=true)](https://github.com/lijy91)
 
-### 🌟 Sponsorship
+## 🌟 Sponsorship
 
 If you find my work helpful or valuable, consider supporting me in the following way. Your sponsorship helps me dedicate more time to open-source contributions and creating awesome Flutter content.
 

@@ -173,7 +173,7 @@ def generate_all_tables(categories: List[Dict[str, Any]], entities: List[Dict[st
         if not category_entities:
             continue
         
-        output.append(f"#### {category['name']}\n")
+        output.append(f"### {category['name']}\n")
         
         # Add description if available
         if category.get('description'):

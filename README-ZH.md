@@ -1,10 +1,10 @@
-## Hi there, I'm LiJianying 👋
+# Hi there, I'm LiJianying 👋
 
 我是一位充满激情的Flutter开发者和开源爱好者。目前，我通过我的组织 [LeanFlutter](https://github.com/leanflutter) 积极为Flutter社区做贡献，我们在那里开发各种Flutter插件。
 
 [English](/README.md) | 简体中文
 
-### 🥞 我的技术栈
+## 🥞 我的技术栈
 
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -19,10 +19,10 @@
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🏗️ 我的开源项目
+## 🏗️ 我的开源项目
 
 <!-- AUTO-GENERATED:START -->
-#### Apps
+### Apps
 
 Personal applications independently developed by me.
 
@@ -30,7 +30,7 @@ Personal applications independently developed by me.
 | ------- | -------- | -------- | --------- | ---------------- |
 | [Biyi](https://github.com/lijy91/biyi) | [![Stars](https://img.shields.io/github/stars/lijy91/biyi)](https://github.com/lijy91/biyi/stargazers) | [![Forks](https://img.shields.io/github/forks/lijy91/biyi)](https://github.com/lijy91/biyi/network/members) | [![Issues](https://img.shields.io/github/issues/lijy91/biyi)](https://github.com/lijy91/biyi/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/lijy91/biyi)](https://github.com/lijy91/biyi/pulls) |
 
-#### Packages
+### Packages
 
 Flutter/Dart packages that provide cross-platform capabilities, system integrations, and utility modules for developers.
 
@@ -50,7 +50,7 @@ Flutter/Dart packages that provide cross-platform capabilities, system integrati
 | [tray_manager](https://github.com/leanflutter/tray_manager) | [![Stars](https://img.shields.io/github/stars/leanflutter/tray_manager)](https://github.com/leanflutter/tray_manager/stargazers) | [![Forks](https://img.shields.io/github/forks/leanflutter/tray_manager)](https://github.com/leanflutter/tray_manager/network/members) | [![Issues](https://img.shields.io/github/issues/leanflutter/tray_manager)](https://github.com/leanflutter/tray_manager/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/leanflutter/tray_manager)](https://github.com/leanflutter/tray_manager/pulls) |
 | [window_manager](https://github.com/leanflutter/window_manager) | [![Stars](https://img.shields.io/github/stars/leanflutter/window_manager)](https://github.com/leanflutter/window_manager/stargazers) | [![Forks](https://img.shields.io/github/forks/leanflutter/window_manager)](https://github.com/leanflutter/window_manager/network/members) | [![Issues](https://img.shields.io/github/issues/leanflutter/window_manager)](https://github.com/leanflutter/window_manager/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/leanflutter/window_manager)](https://github.com/leanflutter/window_manager/pulls) |
 
-#### Tools
+### Tools
 
 Tools that support development workflows, automation, and productivity enhancement.
 
@@ -60,7 +60,7 @@ Tools that support development workflows, automation, and productivity enhanceme
 
 <!-- AUTO-GENERATED:END -->
 
-### 📙 我的最新博客文章
+## 📙 我的最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
 - 即将推出...
@@ -68,18 +68,18 @@ Tools that support development workflows, automation, and productivity enhanceme
 
 ▶ [...探索更多Flutter资源](https://github.com/leanflutter)
 
-### 📈 GitHub统计
+## 📈 GitHub统计
 
 [![](https://github-readme-stats.vercel.app/api?username=lijy91&show_icons=true&line_height=27&count_private=true&title_color=1F2329&text_color=434D58&icon_color=2bbc8a&bg_color=F6F8FA)](https://github.com/lijy91/lijy91)
 
-### 👾 社交媒体
+## 👾 社交媒体
 
 [![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/lijy91/)
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/zPa6EZ2jqb)
 [![](https://img.shields.io/badge/QQ群-EB1923?style=for-the-badge&logo=tencent-qq&logoColor=white)](https://jq.qq.com/?_wv=1027&k=e3kwRnnw)
 [![](https://komarev.com/ghpvc/?username=lijy91&style=for-the-badge&color=red&abbreviated=true)](https://github.com/lijy91)
 
-### 🌟 赞助
+## 🌟 赞助
 
 如果你觉得我的工作对你有帮助或有价值，考虑通过以下方式支持我。你的赞助将帮助我有更多时间贡献于开源项目并创建更棒的Flutter内容。
 
