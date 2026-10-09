@@ -1,38 +1,104 @@
+<div align="center">
+
 # Hi there, I'm LiJianying 👋
 
-我是一位充满激情的Flutter开发者和开源爱好者。目前，我通过我的组织 [LeanFlutter](https://github.com/leanflutter) 积极为Flutter社区做贡献，我们在那里开发各种Flutter插件。
+跨平台桌面应用 · 原生系统集成 · 开发者工具
 
-[English](/README.md) | 简体中文
+<p>
+  <a href="https://twitter.com/lijy91/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://discord.com/invite/zPa6EZ2jqb"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://jq.qq.com/?_wv=1027&k=e3kwRnnw"><img src="https://img.shields.io/badge/QQ群-EB1923?style=for-the-badge&logo=qq&logoColor=white" alt="QQ" /></a>
+</p>
 
-## 🥞 我的技术栈
+[English](/README.md) · 简体中文
 
-![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
-## 🏗️ 我的开源项目
+## 👨‍💻 关于我
+
+我专注于跨平台桌面应用、其底层的原生系统集成，以及围绕它们的开发者工具，主要使用 C++、Rust、Dart 和 Flutter。当前的重心是 [nativeapi](https://github.com/libnativeapi/nativeapi)，一个提供多语言绑定的统一原生系统 API 层，它脱胎于我的 [LeanFlutter](https://github.com/leanflutter) 桌面插件，是其后继者。
+
+## 🥞 技术栈
+
+<table align="center">
+  <tr>
+    <th align="right">语言</th>
+    <td>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">框架</th>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">平台</th>
+    <td>
+      <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTMgNS41bDcuNS0xdjdIM3ptOC41LTEuMkwyMSAzdjguNWgtOS41ek0zIDEyLjVoNy41djdMMyAxOC41em04LjUgMEgyMVYyMWwtOS41LTEuM3oiLz48L3N2Zz4=" alt="Windows" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" alt="Android" />
+      <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">工具链</th>
+    <td>
+      <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+  </tr>
+</table>
+
+## 🚀 精选项目
+
+<p align="center">
+  <a href="https://github.com/beyondtranslate/beyondtranslate-ce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=beyondtranslate&repo=beyondtranslate-ce&show_owner=true&title_color=1F2329&text_color=434D58&icon_color=2bbc8a&bg_color=F6F8FA&hide_border=true" alt="beyondtranslate-ce" /></a>
+  <a href="https://github.com/fastforgedev/fastforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fastforgedev&repo=fastforge&show_owner=true&title_color=1F2329&text_color=434D58&icon_color=2bbc8a&bg_color=F6F8FA&hide_border=true" alt="fastforge" /></a>
+  <a href="https://github.com/libnativeapi/nativeapi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=libnativeapi&repo=nativeapi&show_owner=true&title_color=1F2329&text_color=434D58&icon_color=2bbc8a&bg_color=F6F8FA&hide_border=true" alt="nativeapi" /></a>
+</p>
+
+## 🏗️ 开源项目
 
 <!-- AUTO-GENERATED:START -->
-### Apps
+### 应用
 
-Personal applications independently developed by me.
+我开发并发布的跨平台桌面应用。
 
 | 📂 项目 | ⭐ Stars | 🍴 Forks | 🚧 Issues | 📬 Pull requests |
 | ------- | -------- | -------- | --------- | ---------------- |
-| [Biyi](https://github.com/lijy91/biyi) | [![Stars](https://img.shields.io/github/stars/lijy91/biyi)](https://github.com/lijy91/biyi/stargazers) | [![Forks](https://img.shields.io/github/forks/lijy91/biyi)](https://github.com/lijy91/biyi/network/members) | [![Issues](https://img.shields.io/github/issues/lijy91/biyi)](https://github.com/lijy91/biyi/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/lijy91/biyi)](https://github.com/lijy91/biyi/pulls) |
+| [BeyondTranslate](https://github.com/beyondtranslate/beyondtranslate-ce) | [![Stars](https://img.shields.io/github/stars/beyondtranslate/beyondtranslate-ce)](https://github.com/beyondtranslate/beyondtranslate-ce/stargazers) | [![Forks](https://img.shields.io/github/forks/beyondtranslate/beyondtranslate-ce)](https://github.com/beyondtranslate/beyondtranslate-ce/network/members) | [![Issues](https://img.shields.io/github/issues/beyondtranslate/beyondtranslate-ce)](https://github.com/beyondtranslate/beyondtranslate-ce/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/beyondtranslate/beyondtranslate-ce)](https://github.com/beyondtranslate/beyondtranslate-ce/pulls) |
 
-### Packages
+### 库
 
-Flutter/Dart packages that provide cross-platform capabilities, system integrations, and utility modules for developers.
+基于同一个 C++ 核心的原生系统 API 库，提供 Dart/Flutter、Rust、C#、JavaScript/TypeScript、Python 和 Go 绑定。
+
+| 📂 项目 | ⭐ Stars | 🍴 Forks | 🚧 Issues | 📬 Pull requests |
+| ------- | -------- | -------- | --------- | ---------------- |
+| [nativeapi](https://github.com/libnativeapi/nativeapi) | [![Stars](https://img.shields.io/github/stars/libnativeapi/nativeapi)](https://github.com/libnativeapi/nativeapi/stargazers) | [![Forks](https://img.shields.io/github/forks/libnativeapi/nativeapi)](https://github.com/libnativeapi/nativeapi/network/members) | [![Issues](https://img.shields.io/github/issues/libnativeapi/nativeapi)](https://github.com/libnativeapi/nativeapi/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/libnativeapi/nativeapi)](https://github.com/libnativeapi/nativeapi/pulls) |
+| [nativeapi-core](https://github.com/libnativeapi/nativeapi-core) | [![Stars](https://img.shields.io/github/stars/libnativeapi/nativeapi-core)](https://github.com/libnativeapi/nativeapi-core/stargazers) | [![Forks](https://img.shields.io/github/forks/libnativeapi/nativeapi-core)](https://github.com/libnativeapi/nativeapi-core/network/members) | [![Issues](https://img.shields.io/github/issues/libnativeapi/nativeapi-core)](https://github.com/libnativeapi/nativeapi-core/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/libnativeapi/nativeapi-core)](https://github.com/libnativeapi/nativeapi-core/pulls) |
+
+### 工具
+
+用于构建、打包、发布和自动化交付应用的工具。
+
+| 📂 项目 | ⭐ Stars | 🍴 Forks | 🚧 Issues | 📬 Pull requests |
+| ------- | -------- | -------- | --------- | ---------------- |
+| [fastforge](https://github.com/fastforgedev/fastforge) | [![Stars](https://img.shields.io/github/stars/fastforgedev/fastforge)](https://github.com/fastforgedev/fastforge/stargazers) | [![Forks](https://img.shields.io/github/forks/fastforgedev/fastforge)](https://github.com/fastforgedev/fastforge/network/members) | [![Issues](https://img.shields.io/github/issues/fastforgedev/fastforge)](https://github.com/fastforgedev/fastforge/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/fastforgedev/fastforge)](https://github.com/fastforgedev/fastforge/pulls) |
+
+### Flutter 插件
+
+LeanFlutter 旗下的 Flutter 桌面插件。仍在维护，但新的原生能力统一在 nativeapi 中实现，后续将逐步由 nativeapi 取代。
+
+<details>
+<summary>展开全部插件</summary>
 
 | 📂 项目 | ⭐ Stars | 🍴 Forks | 🚧 Issues | 📬 Pull requests |
 | ------- | -------- | -------- | --------- | ---------------- |
@@ -50,40 +116,16 @@ Flutter/Dart packages that provide cross-platform capabilities, system integrati
 | [tray_manager](https://github.com/leanflutter/tray_manager) | [![Stars](https://img.shields.io/github/stars/leanflutter/tray_manager)](https://github.com/leanflutter/tray_manager/stargazers) | [![Forks](https://img.shields.io/github/forks/leanflutter/tray_manager)](https://github.com/leanflutter/tray_manager/network/members) | [![Issues](https://img.shields.io/github/issues/leanflutter/tray_manager)](https://github.com/leanflutter/tray_manager/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/leanflutter/tray_manager)](https://github.com/leanflutter/tray_manager/pulls) |
 | [window_manager](https://github.com/leanflutter/window_manager) | [![Stars](https://img.shields.io/github/stars/leanflutter/window_manager)](https://github.com/leanflutter/window_manager/stargazers) | [![Forks](https://img.shields.io/github/forks/leanflutter/window_manager)](https://github.com/leanflutter/window_manager/network/members) | [![Issues](https://img.shields.io/github/issues/leanflutter/window_manager)](https://github.com/leanflutter/window_manager/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/leanflutter/window_manager)](https://github.com/leanflutter/window_manager/pulls) |
 
-### Tools
-
-Tools that support development workflows, automation, and productivity enhancement.
-
-| 📂 项目 | ⭐ Stars | 🍴 Forks | 🚧 Issues | 📬 Pull requests |
-| ------- | -------- | -------- | --------- | ---------------- |
-| [fastforge](https://github.com/fastforgedev/fastforge) | [![Stars](https://img.shields.io/github/stars/fastforgedev/fastforge)](https://github.com/fastforgedev/fastforge/stargazers) | [![Forks](https://img.shields.io/github/forks/fastforgedev/fastforge)](https://github.com/fastforgedev/fastforge/network/members) | [![Issues](https://img.shields.io/github/issues/fastforgedev/fastforge)](https://github.com/fastforgedev/fastforge/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/fastforgedev/fastforge)](https://github.com/fastforgedev/fastforge/pulls) |
+</details>
 
 <!-- AUTO-GENERATED:END -->
 
-## 📙 我的最新博客文章
+## 📈 GitHub 统计
 
-<!-- BLOG-POST-LIST:START -->
-- 即将推出...
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <a href="https://github.com/lijy91"><img src="https://github-readme-stats.vercel.app/api?username=lijy91&show_icons=true&count_private=true&title_color=1F2329&text_color=434D58&icon_color=2bbc8a&bg_color=F6F8FA&hide_border=true" alt="GitHub stats" /></a>
+</p>
 
-▶ [...探索更多Flutter资源](https://github.com/leanflutter)
+## 🤝 联系我
 
-## 📈 GitHub统计
-
-[![](https://github-readme-stats.vercel.app/api?username=lijy91&show_icons=true&line_height=27&count_private=true&title_color=1F2329&text_color=434D58&icon_color=2bbc8a&bg_color=F6F8FA)](https://github.com/lijy91/lijy91)
-
-## 👾 社交媒体
-
-[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/lijy91/)
-[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/zPa6EZ2jqb)
-[![](https://img.shields.io/badge/QQ群-EB1923?style=for-the-badge&logo=tencent-qq&logoColor=white)](https://jq.qq.com/?_wv=1027&k=e3kwRnnw)
-[![](https://komarev.com/ghpvc/?username=lijy91&style=for-the-badge&color=red&abbreviated=true)](https://github.com/lijy91)
-
-## 🌟 赞助
-
-如果你觉得我的工作对你有帮助或有价值，考虑通过以下方式支持我。你的赞助将帮助我有更多时间贡献于开源项目并创建更棒的Flutter内容。
-
-- 👉 [Liberapay](https://liberapay.com/lijy91) - 循环赞助
-- 👉 [微信支付或支付宝](https://leanflutter.dev/sponsor) - 一次性赞助
-
-通过赞助，你将获得独家福利，如提前访问新项目、优先支持等！
+欢迎就这些项目提出问题、反馈或想法。可以在对应仓库提 issue，也可以通过 [X](https://twitter.com/lijy91/)、[Discord](https://discord.com/invite/zPa6EZ2jqb) 或 [QQ 群](https://jq.qq.com/?_wv=1027&k=e3kwRnnw) 找到我。

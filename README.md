@@ -1,38 +1,104 @@
+<div align="center">
+
 # Hi there, I'm LiJianying 👋
 
-I'm a passionate Flutter developer and open-source enthusiast. Currently, I'm actively contributing to the Flutter community through my organization, [LeanFlutter](https://github.com/leanflutter), where we develop a variety of Flutter plugins.
+Cross-platform desktop apps · Native system integrations · Developer tooling
 
-English | [简体中文](/README-ZH.md)
+<p>
+  <a href="https://twitter.com/lijy91/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://discord.com/invite/zPa6EZ2jqb"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://jq.qq.com/?_wv=1027&k=e3kwRnnw"><img src="https://img.shields.io/badge/QQ_Group-EB1923?style=for-the-badge&logo=qq&logoColor=white" alt="QQ" /></a>
+</p>
 
-## 🥞 My Tech Stack
+English · [简体中文](/README-ZH.md)
 
-![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
-## 🏗️ My Open Source Projects
+## 👨‍💻 About Me
+
+I build cross-platform desktop apps, the native system integrations beneath them, and the developer tooling around them, mostly with C++, Rust, Dart and Flutter. My current focus is [nativeapi](https://github.com/libnativeapi/nativeapi), a unified native system API layer with bindings for multiple languages, which grew out of my [LeanFlutter](https://github.com/leanflutter) desktop plugins and is their successor.
+
+## 🥞 Tech Stack
+
+<table align="center">
+  <tr>
+    <th align="right">Languages</th>
+    <td>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">Frameworks</th>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">Platforms</th>
+    <td>
+      <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTMgNS41bDcuNS0xdjdIM3ptOC41LTEuMkwyMSAzdjguNWgtOS41ek0zIDEyLjVoNy41djdMMyAxOC41em04LjUgMEgyMVYyMWwtOS41LTEuM3oiLz48L3N2Zz4=" alt="Windows" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" alt="Android" />
+      <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">Tooling</th>
+    <td>
+      <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+  </tr>
+</table>
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/beyondtranslate/beyondtranslate-ce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=beyondtranslate&repo=beyondtranslate-ce&show_owner=true&title_color=1F2329&text_color=434D58&icon_color=2bbc8a&bg_color=F6F8FA&hide_border=true" alt="beyondtranslate-ce" /></a>
+  <a href="https://github.com/fastforgedev/fastforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fastforgedev&repo=fastforge&show_owner=true&title_color=1F2329&text_color=434D58&icon_color=2bbc8a&bg_color=F6F8FA&hide_border=true" alt="fastforge" /></a>
+  <a href="https://github.com/libnativeapi/nativeapi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=libnativeapi&repo=nativeapi&show_owner=true&title_color=1F2329&text_color=434D58&icon_color=2bbc8a&bg_color=F6F8FA&hide_border=true" alt="nativeapi" /></a>
+</p>
+
+## 🏗️ Open Source Projects
 
 <!-- AUTO-GENERATED:START -->
 ### Apps
 
-Personal applications independently developed by me.
+Cross-platform desktop apps that I build and ship.
 
 | 📂 Projects | ⭐ Stars | 🍴 Forks | 🚧 Issues | 📬 Pull requests |
 | ----------- | -------- | -------- | --------- | ---------------- |
-| [Biyi](https://github.com/lijy91/biyi) | [![Stars](https://img.shields.io/github/stars/lijy91/biyi)](https://github.com/lijy91/biyi/stargazers) | [![Forks](https://img.shields.io/github/forks/lijy91/biyi)](https://github.com/lijy91/biyi/network/members) | [![Issues](https://img.shields.io/github/issues/lijy91/biyi)](https://github.com/lijy91/biyi/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/lijy91/biyi)](https://github.com/lijy91/biyi/pulls) |
+| [BeyondTranslate](https://github.com/beyondtranslate/beyondtranslate-ce) | [![Stars](https://img.shields.io/github/stars/beyondtranslate/beyondtranslate-ce)](https://github.com/beyondtranslate/beyondtranslate-ce/stargazers) | [![Forks](https://img.shields.io/github/forks/beyondtranslate/beyondtranslate-ce)](https://github.com/beyondtranslate/beyondtranslate-ce/network/members) | [![Issues](https://img.shields.io/github/issues/beyondtranslate/beyondtranslate-ce)](https://github.com/beyondtranslate/beyondtranslate-ce/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/beyondtranslate/beyondtranslate-ce)](https://github.com/beyondtranslate/beyondtranslate-ce/pulls) |
 
-### Packages
+### Libraries
 
-Flutter/Dart packages that provide cross-platform capabilities, system integrations, and utility modules for developers.
+Native system API libraries built on a shared C++ core, with bindings for Dart/Flutter, Rust, C#, JavaScript/TypeScript, Python and Go.
+
+| 📂 Projects | ⭐ Stars | 🍴 Forks | 🚧 Issues | 📬 Pull requests |
+| ----------- | -------- | -------- | --------- | ---------------- |
+| [nativeapi](https://github.com/libnativeapi/nativeapi) | [![Stars](https://img.shields.io/github/stars/libnativeapi/nativeapi)](https://github.com/libnativeapi/nativeapi/stargazers) | [![Forks](https://img.shields.io/github/forks/libnativeapi/nativeapi)](https://github.com/libnativeapi/nativeapi/network/members) | [![Issues](https://img.shields.io/github/issues/libnativeapi/nativeapi)](https://github.com/libnativeapi/nativeapi/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/libnativeapi/nativeapi)](https://github.com/libnativeapi/nativeapi/pulls) |
+| [nativeapi-core](https://github.com/libnativeapi/nativeapi-core) | [![Stars](https://img.shields.io/github/stars/libnativeapi/nativeapi-core)](https://github.com/libnativeapi/nativeapi-core/stargazers) | [![Forks](https://img.shields.io/github/forks/libnativeapi/nativeapi-core)](https://github.com/libnativeapi/nativeapi-core/network/members) | [![Issues](https://img.shields.io/github/issues/libnativeapi/nativeapi-core)](https://github.com/libnativeapi/nativeapi-core/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/libnativeapi/nativeapi-core)](https://github.com/libnativeapi/nativeapi-core/pulls) |
+
+### Tools
+
+Tools for building, packaging, publishing and automating app delivery.
+
+| 📂 Projects | ⭐ Stars | 🍴 Forks | 🚧 Issues | 📬 Pull requests |
+| ----------- | -------- | -------- | --------- | ---------------- |
+| [fastforge](https://github.com/fastforgedev/fastforge) | [![Stars](https://img.shields.io/github/stars/fastforgedev/fastforge)](https://github.com/fastforgedev/fastforge/stargazers) | [![Forks](https://img.shields.io/github/forks/fastforgedev/fastforge)](https://github.com/fastforgedev/fastforge/network/members) | [![Issues](https://img.shields.io/github/issues/fastforgedev/fastforge)](https://github.com/fastforgedev/fastforge/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/fastforgedev/fastforge)](https://github.com/fastforgedev/fastforge/pulls) |
+
+### Flutter Packages
+
+Flutter desktop plugins from LeanFlutter. They are still maintained, but new native capabilities now land in nativeapi, which will gradually supersede them.
+
+<details>
+<summary>Show all packages</summary>
 
 | 📂 Projects | ⭐ Stars | 🍴 Forks | 🚧 Issues | 📬 Pull requests |
 | ----------- | -------- | -------- | --------- | ---------------- |
@@ -50,41 +116,16 @@ Flutter/Dart packages that provide cross-platform capabilities, system integrati
 | [tray_manager](https://github.com/leanflutter/tray_manager) | [![Stars](https://img.shields.io/github/stars/leanflutter/tray_manager)](https://github.com/leanflutter/tray_manager/stargazers) | [![Forks](https://img.shields.io/github/forks/leanflutter/tray_manager)](https://github.com/leanflutter/tray_manager/network/members) | [![Issues](https://img.shields.io/github/issues/leanflutter/tray_manager)](https://github.com/leanflutter/tray_manager/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/leanflutter/tray_manager)](https://github.com/leanflutter/tray_manager/pulls) |
 | [window_manager](https://github.com/leanflutter/window_manager) | [![Stars](https://img.shields.io/github/stars/leanflutter/window_manager)](https://github.com/leanflutter/window_manager/stargazers) | [![Forks](https://img.shields.io/github/forks/leanflutter/window_manager)](https://github.com/leanflutter/window_manager/network/members) | [![Issues](https://img.shields.io/github/issues/leanflutter/window_manager)](https://github.com/leanflutter/window_manager/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/leanflutter/window_manager)](https://github.com/leanflutter/window_manager/pulls) |
 
-### Tools
-
-Tools that support development workflows, automation, and productivity enhancement.
-
-| 📂 Projects | ⭐ Stars | 🍴 Forks | 🚧 Issues | 📬 Pull requests |
-| ----------- | -------- | -------- | --------- | ---------------- |
-| [fastforge](https://github.com/fastforgedev/fastforge) | [![Stars](https://img.shields.io/github/stars/fastforgedev/fastforge)](https://github.com/fastforgedev/fastforge/stargazers) | [![Forks](https://img.shields.io/github/forks/fastforgedev/fastforge)](https://github.com/fastforgedev/fastforge/network/members) | [![Issues](https://img.shields.io/github/issues/fastforgedev/fastforge)](https://github.com/fastforgedev/fastforge/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/fastforgedev/fastforge)](https://github.com/fastforgedev/fastforge/pulls) |
+</details>
 
 <!-- AUTO-GENERATED:END -->
 
-## 📙 My Latest Blog Articles
-
-<!-- BLOG-POST-LIST:START -->
-
-- Coming soon...
-<!-- BLOG-POST-LIST:END -->
-
-▶ [...explore more Flutter resources](https://github.com/leanflutter)
-
 ## 📈 GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=lijy91&show_icons=true&line_height=27&count_private=true&title_color=1F2329&text_color=434D58&icon_color=2bbc8a&bg_color=F6F8FA)](https://github.com/lijy91/lijy91)
+<p align="center">
+  <a href="https://github.com/lijy91"><img src="https://github-readme-stats.vercel.app/api?username=lijy91&show_icons=true&count_private=true&title_color=1F2329&text_color=434D58&icon_color=2bbc8a&bg_color=F6F8FA&hide_border=true" alt="GitHub stats" /></a>
+</p>
 
-## 👾 Socials
+## 🤝 Get in Touch
 
-[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/lijy91/)
-[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/zPa6EZ2jqb)
-[![](https://img.shields.io/badge/QQ_Group-EB1923?style=for-the-badge&logo=tencent-qq&logoColor=white)](https://jq.qq.com/?_wv=1027&k=e3kwRnnw)
-[![](https://komarev.com/ghpvc/?username=lijy91&style=for-the-badge&color=red&abbreviated=true)](https://github.com/lijy91)
-
-## 🌟 Sponsorship
-
-If you find my work helpful or valuable, consider supporting me in the following way. Your sponsorship helps me dedicate more time to open-source contributions and creating awesome Flutter content.
-
-- 👉 [Liberapay](https://liberapay.com/lijy91) - Recurring sponsorship
-- 👉 [WeChatPay or Alipay](https://leanflutter.dev/sponsor) - One-time sponsorship
-
-By sponsoring, you get exclusive benefits like early access to new projects, priority support, and more!
+Questions, feedback or ideas about any of these projects are always welcome. Open an issue in the relevant repository, or reach me on [X](https://twitter.com/lijy91/), [Discord](https://discord.com/invite/zPa6EZ2jqb) or the [QQ group](https://jq.qq.com/?_wv=1027&k=e3kwRnnw).
